@@ -1,1 +1,2 @@
 I am a another third file
+Newly added some line into me
